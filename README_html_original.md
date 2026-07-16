@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# html
+for works
+=======
 # Stone Tech (688169) — 三版设计对比
 
 使用 [Vibe Design Arena](../../SKILL.md) skill 为石头科技财务分析报告生成的三个并行前端设计方案。
@@ -44,3 +48,4 @@ npm run dev
 ```
 
 原始三版并排对比截图可在 [GitHub Release](https://github.com/osome-creator/vibe-design-arena) 查看。
+>>>>>>> migration/main
